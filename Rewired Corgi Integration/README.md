@@ -1,7 +1,7 @@
 # Rewired Corgi Integration
 ## How to use
 1. Import the package into your project
-2. Resolve namespace conflicts by deleting InputManager.cs and MMInput.cs from your Corgi import
+2. Resolve namespace conflicts by deleting `InputManager.cs` and `MMInput.cs` from your Corgi import
 3. Drop the Rewired Corgi Input Manager into your scene
 4. Hit the play button
 ## Possible Issues
